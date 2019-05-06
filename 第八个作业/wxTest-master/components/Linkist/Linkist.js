@@ -16,9 +16,11 @@ Component({
   data: {
    
    ItemList:[
-     {"pagename":"WXML学习的基本语法","pagetext":"/tools/wxml/wxml"},
-     {"pagename":"利息计算器","pagetext":"/tools/lxjsq/lxjsq"},
-     {"pagename":"计算器","pagetext":"/tools/lxjsq/lxjsq"}
+     {"pagename":"利息计算器","pagetext":"../lxjsq/lxjsq"},
+     {"pagename":"留言板","pagetext":"../liuyanban/liuyanban"},
+     {"pagename":"猜字游戏", "pagetext": "../caizi/caizi" },
+     { "pagename": "地图", "pagetext": "../map/map" },
+     { "pagename": "系统", "pagetext": "../wxapl/wxapl" }
    ],
 
   },

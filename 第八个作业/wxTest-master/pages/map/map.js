@@ -12,11 +12,11 @@ Page({
     covers: [{
       latitude: 23.099994,
       longitude: 113.344520,
-      iconPath: '/image/location.png'
+      iconPath: '../images/location.png'
     }, {
       latitude: 23.099994,
       longitude: 113.304520,
-      iconPath: '/image/location.png'
+      iconPath: '../images/location.png'
     }]
   },
   onReady: function (e) {
